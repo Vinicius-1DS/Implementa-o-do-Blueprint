@@ -1,4 +1,3 @@
-```markdown
 # 1. VISÃO GERAL E ARQUITETURA DE ALTO NÍVEL
 
 ## 🚀 Missão (O Contrato)
@@ -23,3 +22,4 @@ O sistema opera em um fluxo de processamento de três etapas:
 3. **Pós-Processamento e Saída (Formatação):**
     * **Função:** Refinar a resposta gerada pelo LLM, aplicando as diretrizes de Formatação e Segurança.
     * **Resultado:** O corpo da resposta final, pronto para exibição.
+
