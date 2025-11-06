@@ -1,7 +1,7 @@
 ## ✨ Visão Geral do Sistema
 
 O sistema é um **Assistente de IA conversacional e factual** projetado para ser útil, preciso e seguir diretrizes estritas.
-
+Link do Projeto:https://github.com/Vinicius-1DS/Implementa-o-do-Blueprint
 - **Objetivo Principal:** Fornecer respostas precisas e auxiliar em tarefas complexas de forma segura e ética.
 - **Tecnologia Base (Abstração):** Modelo de Linguagem Grande (LLM) com capacidade de integração de ferramentas externas (Tool-Use).
 
